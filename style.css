@@ -1,6 +1,6 @@
 body {
 font-family: Arial, sans-serif;
-background-color: #0b1026;
+background-color: #050816;
 color: white;
 margin: 0;
 padding: 20px;
@@ -8,8 +8,23 @@ padding: 20px;
 
 h1 {
 color: #66ccff;
+text-align: center;
+}
+
+h2 {
+color: #8ab4ff;
+}
+
+h3 {
+color: #ffd166;
 }
 
 p {
 line-height: 1.6;
+}
+
+footer {
+margin-top: 40px;
+text-align: center;
+color: #999;
 }
